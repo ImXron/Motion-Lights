@@ -3,6 +3,8 @@ Motion-Lights
 
 Motion sensing lights
 
+ref. video: http://youtu.be/26CrxWgX2yk
+
 Items needed:
 
 Arduino UNO
